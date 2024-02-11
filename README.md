@@ -10,7 +10,7 @@ I've been learning code since 2021❤️. Two years ago i focused in improving m
 * 🖥️  See my portfolio at [Myportfolio](http://google.com)
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
 * 🚀  I'm currently working on [Clostech](http://www.linkedin.com/company/clostech)
-* ⚡  You can see my work in the pinned projects ;)
+* ⚡  You can see my work in the pinned repos ;)
 
 ### Skills
 
