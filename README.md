@@ -7,7 +7,6 @@ Data Scientist | Python SQL | Help businesses make data-driven decisions and bui
 I've been learning code since 2021❤️. Two years ago i focused in improving my skills as machine learning engineer.🙌
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [Myportfolio](http://google.com)
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
 * 🚀  I'm currently working on [Clostech](http://www.linkedin.com/company/clostech)
 * ⚡  You can see my work in the pinned repos ;)
