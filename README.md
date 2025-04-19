@@ -8,7 +8,7 @@ I've been learning code since 2021❤. One year ago i focused in improving my sk
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
-* 🚀  I'm currently working on [Clostech](http://www.linkedin.com/company/clostech)
+* 🚀  I'm currently working on looking job
 * ⚡  You can see my work in the pinned repos ;)
 
 ### Skills
