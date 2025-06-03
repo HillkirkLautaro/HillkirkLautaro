@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lautaro
 ===============================================================================================================================
 
-Data Scientist | Python SQL | Help businesses make data-driven decisions and build AI-Powered data products.
--------------------------
-
-I've been learning code since 2021❤. One year ago i focused in improving my skills as Data scientist.
+I've been learning code since 2021.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
