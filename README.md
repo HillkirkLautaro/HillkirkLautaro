@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lautaro
 ===============================================================================================================================
 
-I've been learning code since 2021.
+I've been learning to code since 2021. Actually studying a bachelor's degree in analysis and management of data. Also studying a technical degree in programation technologies.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
