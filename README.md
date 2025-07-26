@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 👨‍💻 Coding since 2021. 
 Currently studying:
-Bachelor's in Data Analysis and Management [Universidad Nacional de San Luis (UNSL)](https://www.unsl.edu.ar/)
-Technical degree in Programming Technologies [Universidad Provincial del Sudoeste (UPSO)](https://www.upso.edu.ar/) .
+- Bachelor's in Data Analysis and Management [Universidad Nacional de San Luis (UNSL)](https://www.unsl.edu.ar/)
+- Technical degree in Programming Technologies [Universidad Provincial del Sudoeste (UPSO)](https://www.upso.edu.ar/) .
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
