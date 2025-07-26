@@ -1,7 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lautaro
 ===============================================================================================================================
 
-👨‍💻 Coding since 2021. Currently studying a Bachelor's in Data Analysis and Management, and a Technical degree in Programming Technologies.
+👨‍💻 Coding since 2021. 
+Currently studying:
+Bachelor's in Data Analysis and Management [Universidad Nacional de San Luis (UNSL)](https://www.unsl.edu.ar/)
+Technical degree in Programming Technologies [Universidad Provincial del Sudoeste (UPSO)](https://www.upso.edu.ar/) .
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [hillkirklautaro18@gmail.com](mailto:hillkirklautaro18@gmail.com)
